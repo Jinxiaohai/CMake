@@ -1,3 +1,0 @@
-/home/xiaohai/Github/CMake/BasicStartingPoint/build/CMakeFiles/rebuild_cache.dir
-/home/xiaohai/Github/CMake/BasicStartingPoint/build/CMakeFiles/BasicStartingPoint.dir
-/home/xiaohai/Github/CMake/BasicStartingPoint/build/CMakeFiles/edit_cache.dir

@@ -1,1 +1,0 @@
-/opt/gcc/install/bin/g++     CMakeFiles/BasicStartingPoint.dir/src/tutorial.cpp.o  -o BasicStartingPoint 
