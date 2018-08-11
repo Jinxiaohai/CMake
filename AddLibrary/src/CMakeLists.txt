@@ -20,6 +20,10 @@ set_target_properties(hello_static PROPERTIES VERSION 1.0 SOVERSION 1)
 get_target_property(target_name hello_dynamic OUTPUT_NAME)
 message(STATUS "对象的名字是" ${target_name})
 
+# 安装动态库
 install(TARGETS hello_dynamic hello_static
   LIBRARY DESTINATION lib
   ARCHIVE DESTINATION lib)
+
+# 安装头文件
+install(FILES hello.h DESTINATION include)
