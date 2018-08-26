@@ -1,6 +1,3 @@
-# 设定最小版本
-cmake_minimum_required(VERSION 3.0)
-
 # 生成files
 file(GLOB SRC "${PROJECT_SOURCE_DIR}/src/*.cpp")
 

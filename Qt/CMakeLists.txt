@@ -1,6 +1,9 @@
 # 最低需要2.8.11版本
 cmake_minimum_required(VERSION 3.0)
 
+# 设定Qt的安装位置
+set(CMAKE_PREFIX_PATH "/opt/qt/install/")
+
 # include的目录包含当前目录
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
